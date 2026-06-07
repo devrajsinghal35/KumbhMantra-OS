@@ -91,14 +91,3 @@ npm run lint
 - `src/features/` isolates each dashboard domain for easier scaling.
 - `src/components/layout/` and `src/components/ui/` keep the design system reusable.
 
-## Hackathon pitch angle
-
-KumbhMantra OS demonstrates how a real-time command layer can reduce response delay, surface congestion risk earlier, and help administrators coordinate crowd safety across dense public infrastructure. The repository is organized to show engineering maturity, not just UI polish.
-
-## Suggested next upgrades
-
-- Replace mock datasets with REST or WebSocket feeds.
-- Add role-based operator views.
-- Integrate GIS maps and geofenced alerts.
-- Store historical analytics snapshots.
-- Add unit tests and visual regression checks.
